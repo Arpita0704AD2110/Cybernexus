@@ -1,6 +1,6 @@
 # Welcome to CyberNexus- Ai Powered threat intelligence platform
 
-# 📚 Project Documentation & Academic Links
+## 📚 Project Documentation & Academic Links
 
 This is the **Development Repository** containing the source code and live deployment. 
 For the full academic submission, including Architecture, PPT, Agile Docs, and Research, please visit the main repository:
